@@ -1,4 +1,4 @@
-module wpaumetadata
+module github.com/FAST2/wpaumetadata
 
 go 1.18
 
